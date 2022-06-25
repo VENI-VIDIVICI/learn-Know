@@ -5,6 +5,7 @@ export default defineConfig({
   title: '我的知识库',
   description: 'Vite & Vue powered static site generator.',
   lastUpdated: true,
+  outDir:"../dist",
   themeConfig: {
     nav: [
       { text: 'Start', link: '/know/', activeMatch: '^/$|^/guide/' },
