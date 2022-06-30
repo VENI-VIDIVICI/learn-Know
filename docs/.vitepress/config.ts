@@ -25,5 +25,9 @@ function getGuideSidebar() {
       text: '如何搭建vitepress',
       link: '../konws/如何搭建vitepress.md'
     },
+    {
+      text: 'vscode调试',
+      link: '../konws/vscode调试.md'
+    }
   ]
 }
