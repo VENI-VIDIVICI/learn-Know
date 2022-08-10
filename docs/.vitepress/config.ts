@@ -28,6 +28,10 @@ function getGuideSidebar() {
     {
       text: 'vscode调试',
       link: '../konws/vscode调试.md'
+    },
+    {
+      text: '简单cli',
+      link: '../konws/简单cli.md'
     }
   ]
 }
