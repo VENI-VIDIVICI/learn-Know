@@ -32,6 +32,10 @@ function getGuideSidebar() {
     {
       text: '简单cli',
       link: '../konws/简单cli.md'
+    },
+    {
+      text: 'vue3源码探索',
+      link: '../konws/vue3源码探索.md'
     }
   ]
 }
